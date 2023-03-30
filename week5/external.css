@@ -1,0 +1,41 @@
+*{
+    font-size: 20px;
+}
+    h1{
+    background-color:rgb(226, 70, 43);
+    color:blanchedalmond;
+    /*font-size: 60px;*/
+    font-style: italic;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+ .p1{
+     background-color: rgb(255, 178, 127);
+     color:beige;
+     /*font-size: 20px;*/
+     font-family: 'Alkatra', cursive;
+ }
+ .p2{
+    
+    background-color: rgb(219, 14, 14);
+    color:beige;
+    /*font-size: 20px;*/
+
+}
+.p3{
+    
+    background-color: rgb(228, 14, 139);
+    color:beige;
+   /*font-size: 20px;*/
+}
+.p3:hover{
+    background-color: aqua;
+    color: blueviolet;
+}
+
+ img{
+     width: 400px;
+     height: 200px;
+ }
+img[alt]{
+    color: blueviolet;
+}

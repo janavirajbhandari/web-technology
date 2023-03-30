@@ -1,0 +1,29 @@
+css
+styling
+casceding style sheet(.css)
+type:
+	1. inline
+	2. internal 
+	3. external
+
+example: in html: <h1> week 5</h1>
+	<h1 style='css property'> week5 </h1> //css declaration
+		here
+		style= attribute
+		= : assignment operator
+		css property= value(color, bg color, font size....)
+			      font style
+
+2. internal css:
+   works inside head
+	syntx:
+		tag{
+			css property value
+			}
+	html tags are not used
+
+
+Build in tag= element selector
+id tag= unique name: <p id= "p1"> content</p>
+#id 
+.class
