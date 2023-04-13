@@ -1,0 +1,26 @@
+box model 
+margin = are around element
+bosrder area between margin and padding
+padding= are between border and content
+margin ra padding le space dine kaam garnu
+
+RESPONSIVE design
+
+breakpoints to remember for devices
+            min-width           max-width
+mobile      320px               480px
+tablete     481px               768px
+laptop      769px               1024px
+desktop     1025px              1201px
+
+flex box
+flex direction
+flex-wrap
+justify-content
+center
+space-aroundspace-between]
+flex start
+flex end
+
+grid
+1fr(fractional unit) : utiliizes space

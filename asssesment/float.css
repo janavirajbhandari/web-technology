@@ -1,0 +1,70 @@
+div{
+    background-color: burlywood;
+    width: 100%;
+    height: 100vh;
+    position: static;
+    padding: aut0;
+   
+}
+
+.first{
+    float: left;
+    width: 50%;
+    height: auto;
+
+}
+h1{
+    color: brown;
+    font-size: 75px;
+    font-family: 'Raleway', sans-serif;;
+    margin-bottom: 15px;
+    margin-left: 10px;
+}
+img{
+    width: 40px;
+    margin-left: 10px;
+    display: inline;
+    margin-left: 10px;
+    
+    
+}
+.P{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+    font-size: 20px;
+    margin-bottom: 40px;
+    margin-left: 10px;
+
+}
+.p1{
+    font-family:'Rubik', sans-serif;
+    font-size: 45px;
+    margin-bottom: 5px;
+    margin-left: 10px;
+    color: rgb(92, 6, 6);
+}
+.second{
+    width:50%;
+    float: right;
+    height: auto;
+}
+
+.cloth1{
+    margin-top: 30px;
+    width: 320px;
+    height: auto;
+}
+.cloth2{
+    width: 320px;
+    height: auto;
+}
+
+a{
+    color: brown;
+    display: inline;;
+    margin-left:10px;
+    margin-bottom: 100px;
+}
+a:hover{
+    color: indigo
+}

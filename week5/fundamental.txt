@@ -1,3 +1,0 @@
-swith clock countinuos  bhara
-clock enable D == q
-clock disble bhayo bhane q ma paila ko memory

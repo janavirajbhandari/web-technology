@@ -1,0 +1,18 @@
+pseudo classes(hover, visited, selected )
+solid, doted, dash
+layout building (float, disply, position)
+float 
+1. right 2. left 3. none 4. inherit(parent clss and child class needed)
+box model(margin, border, ladding)
+plannings to building a webpage
+media queries (responsive design)
+
+note:
+height ma 'auto' dine
+display inline block| display inline(width or height change gara milxa)(space chaiyeko jati matra)
+position:
+        1. static
+        2. relative (top left bottom right- exceept for static)
+        3. absolute = element ko mathi gara basne, parent div ko baira ni jana milxa
+        4. fixed
+        5. sticky
