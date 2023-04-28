@@ -1,0 +1,28 @@
+alt z 
+paragraph banauxa
+ctlr + / comment garna
+universe *: marggingpadding value re white space janxa 
+            adjust garxa 
+            SCROLLING   aaudaina
+height always depent on element
+1 em=16 px
+2 em= 4 * 16  
+em: parent div 
+rem: root element lai except parent element ignore
+(body, html)= root element
+not for font size
+(vh= for height
+vw=
+% le parent kko width anusar size manage hunxa
+vh ra vw le parent ko width ma matra gardaina ) 
+
+mdn web doc
+
+text SHADOW 3px             3px             3px
+            horizontal      vertical        blur
+
+declaration variable --variablename
+rbg
+    maximum 255
+    if 0 0 0 = black
+color hunt.com

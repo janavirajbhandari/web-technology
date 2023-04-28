@@ -1,0 +1,105 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}body{
+    width: 100%;
+}
+.left{
+    float: left;
+    width: 40%;
+    height: 100vh;
+    background-image: url(green.jpg);
+    background-size: cover;
+    opacity: 100;
+}
+#p1{
+    margin-top: 200px;
+    margin-left: 20px;
+    font-size: 70px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+}
+#p2{
+    margin-top: 15px;
+    margin-right: 50px;
+    font-size: 25px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+}
+#b{
+    width: 200px;
+    font-size: 15px;
+    padding: 10px;
+    border: 1px solid white;
+    border-radius: 50px;
+    background-color: white;
+    color: black;
+    margin-top: 20px;
+    margin-right: 37px;
+}
+#b:hover{
+    background-color: darkgreen;
+}
+.right{
+    float:right;
+}
+h1{
+    font-size: 45px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 100px;
+    margin-right: 390px;
+}
+h2{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 20px;
+    margin-bottom: 20px
+}
+#f{
+    width: 400px;
+    padding: 10px;
+    border: 1px solid;
+    border-radius: 10px;
+
+}
+#g{
+    width: 400px;
+    padding: 10px;
+    border: 1px solid;
+    border-radius: 10px;
+
+}
+#h{
+    width: 400px;
+    padding: 10px;
+    border: 1px solid;
+    border-radius: 10px;
+}
+#i{
+    width: 400px;
+    padding: 10px;
+    border: 1px solid;
+    border-radius: 10px;
+
+}
+#j{
+    width: 400px;
+    padding: 10px;
+    border: 1px solid;
+    border-radius: 10px;
+
+}
+
+#bu{
+    align-items: center;
+    position: absolute;
+    width: 200px;
+    font-size: 15px;
+    padding: 10px;
+    border: 1px solid rgb(39,179,151);
+    border-radius: 50px;
+    background-color: rgb(39,179,151);
+    color: white;
+    margin-left: 0px;
+
+}
