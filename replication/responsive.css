@@ -152,9 +152,85 @@
         margin-top: 28px;
     }
 }
-/*tablet devices*/
-@media(min-width:481px) and (max-width:768px){
-    .parent2{
-        display: block;
+
+/*laptop devices*/
+@media(min-width:769px) and (max-width:1024px){
+    .parent1 {
+        width: 141%;
+        height: 98vh;
+        background-color: rgb(12,59,46);
+    }
+    .img {
+        margin-left: 50px;
+        width: 427px;
+        height: auto;
+    }
+    .p2 {
+        color: white;
+        font-family: 'Quicksand', sans-serif;
+        margin-left: 60px;
+        margin-top: 88px;
+    }
+    .parent2 {
+        margin-top: -4px;
+        width: 153%;
+        height: 115vh;
+        background-color: rgb(109,151,115);
+    }
+    .parent3 {
+        width: 154%;
+        height: 99vh;
+        background-color: rgb(255,186,0);
+        margin-top: -80px;
+        padding: px;
+    }
+    .one {
+        margin-bottom: 300px;
+        float: left;
+        width: 14%;
+        padding: 95px;
+        font-family: 'PT Sans', sans-serif;
+    }
+    .parent4 {
+        width: 153%;
+        height: 105vh;
+        background-color: rgb(109,151,115);
+        margin-bottom: -500px;
+    }
+    .head {
+        font-size: 74px;
+        color: white;
+        margin-left: -70px;
+        font-family: 'PT Sans', sans-serif;
+        margin-top: -56px;
+    }
+    .pp {
+        margin-left: -69px;
+        margin-top: 199px;
+        color: white;
+        font-size: 23px;
+    }
+    .parent5 {
+        margin-top: 500px;
+        width: 153%;
+        height: 106vh;
+        background-color: rgb(12,59,46);
+    }
+    .photo {
+        width: 480px;
+        height: auto;
+        margin-right: -125px;
+    }
+    .c1 {
+        margin-top: -407px;
+        width: 573px;
+        height: auto;
+    }
+    .last1 {
+        color: white;
+        margin-left: 70px;
+        margin-top: 44px;
+        font-family: 'PT Sans', sans-serif;
+        font-size: 25px;
     }
 }
