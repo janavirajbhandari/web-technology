@@ -1,0 +1,20 @@
+different between var and  let
+                              var             let              const
+var a=10;   reassignment    allow           allow               not
+    a=12;
+var a=10;   redeclaration   allow           not                 not
+var=12;
+datatyes for javascript
+        number
+        stringe
+        boolean
+        object
+
+java 
+    camel case naming convection(words haru in one)
+
+
+javascript  
+id also singular
+class can bein pular using index
+query seledtor always works with singular
