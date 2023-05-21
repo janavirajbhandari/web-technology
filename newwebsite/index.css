@@ -52,8 +52,8 @@ nav{
 }
 .j{
     margin-top: 20px;
-    margin-left: -20px;
-    width: 16%;
+    margin-left: -29px;
+    width: 20%;
     height:auto;
 }
 .wrapper{
@@ -115,3 +115,62 @@ p{
         top: 1px;
          */
 }
+
+@media(min-width:320px) and (max-width:480px){
+    
+    .container {
+        width: 103%;
+        height: 116vh;
+        background-color: #F8F6F4;
+        margin-left: 73px;
+    }
+    .logo {
+        width: 94%;
+        min-height: vh;
+        margin-left: 21px;
+    }
+    .navItems li {
+        list-style: none;
+        margin: 0 5px 5px;
+    }
+    .navItems li a {
+        font-size: 12px;
+    }
+    .links i{
+        width: -17px;
+        margin-left: -64px;
+        margin-top: 60px;
+    }
+    .links a {
+        font-size: 17px;
+        color: #263A29;
+        margin: 127px 11px;
+    }
+    .imgbox img {
+        position: relative;
+        top: -119px;
+        right: 468px;
+        width: 44%;
+    }
+    .cols cols0{
+        float: left;
+        width: 90%;
+        margin-left: -900px;
+        margin-top: 3px;
+    }
+    .topline {
+        font-size: 34px;
+        bottom: -79px;
+}
+h1 {
+        margin-top: 73px;
+        font-size: 3em;
+    }
+p{
+    font-size: 1em;
+}
+}
+  
+@media(min-width:320px) and (max-width:858px){
+    .che
+
